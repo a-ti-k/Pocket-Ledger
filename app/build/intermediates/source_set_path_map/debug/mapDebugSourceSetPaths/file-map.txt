@@ -1,0 +1,48 @@
+com.pocketledger.app-profileinstaller-1.4.0-0 C:\Users\atiku\.gradle\caches\9.6.0\transforms\03a30b13500cd78ec73528eeda045c25\transformed\profileinstaller-1.4.0\res
+com.pocketledger.app-lifecycle-viewmodel-ktx-2.8.3-1 C:\Users\atiku\.gradle\caches\9.6.0\transforms\03e5ed6214f76a593c86c72a0de22c4a\transformed\lifecycle-viewmodel-ktx-2.8.3\res
+com.pocketledger.app-savedstate-ktx-1.2.1-2 C:\Users\atiku\.gradle\caches\9.6.0\transforms\17758a38ea9a67bbfba46e2c48ce28a4\transformed\savedstate-ktx-1.2.1\res
+com.pocketledger.app-lifecycle-runtime-ktx-release-3 C:\Users\atiku\.gradle\caches\9.6.0\transforms\23add3d445650c08d873c978e8644496\transformed\lifecycle-runtime-ktx-release\res
+com.pocketledger.app-activity-1.10.0-4 C:\Users\atiku\.gradle\caches\9.6.0\transforms\3a5e845574a3e1fedf5dc788c359ec59\transformed\activity-1.10.0\res
+com.pocketledger.app-lifecycle-runtime-compose-release-5 C:\Users\atiku\.gradle\caches\9.6.0\transforms\3c50dfdefc23e17307016fce6e859ff1\transformed\lifecycle-runtime-compose-release\res
+com.pocketledger.app-runtime-saveable-release-6 C:\Users\atiku\.gradle\caches\9.6.0\transforms\40872969ab502cd2ac5742f9dc762e99\transformed\runtime-saveable-release\res
+com.pocketledger.app-activity-compose-1.10.0-7 C:\Users\atiku\.gradle\caches\9.6.0\transforms\43aab2a34430d05e52c44b0436b4a8db\transformed\activity-compose-1.10.0\res
+com.pocketledger.app-ui-unit-release-8 C:\Users\atiku\.gradle\caches\9.6.0\transforms\4550b655e45be00fa6808e5e328fc99f\transformed\ui-unit-release\res
+com.pocketledger.app-ui-geometry-release-9 C:\Users\atiku\.gradle\caches\9.6.0\transforms\4727367c3ac4f3839cc1725cb87a67ea\transformed\ui-geometry-release\res
+com.pocketledger.app-material-release-10 C:\Users\atiku\.gradle\caches\9.6.0\transforms\47be8f5f38d0003250c2860702cab164\transformed\material-release\res
+com.pocketledger.app-ui-graphics-release-11 C:\Users\atiku\.gradle\caches\9.6.0\transforms\488fcd6501c8567a961fb433d3090431\transformed\ui-graphics-release\res
+com.pocketledger.app-material3-release-12 C:\Users\atiku\.gradle\caches\9.6.0\transforms\4b27eda5015289a61c4c711d4ead9764\transformed\material3-release\res
+com.pocketledger.app-material-ripple-release-13 C:\Users\atiku\.gradle\caches\9.6.0\transforms\4d38a37d3bd8c6b9f94b76a33026b101\transformed\material-ripple-release\res
+com.pocketledger.app-lifecycle-runtime-release-14 C:\Users\atiku\.gradle\caches\9.6.0\transforms\4e18248c8bb39eb3ee13013434999740\transformed\lifecycle-runtime-release\res
+com.pocketledger.app-core-1.13.1-15 C:\Users\atiku\.gradle\caches\9.6.0\transforms\583642064e541a0c6f2f94536b1165e6\transformed\core-1.13.1\res
+com.pocketledger.app-ui-tooling-data-release-16 C:\Users\atiku\.gradle\caches\9.6.0\transforms\5e8d2871fec9f03912ec948549e92eca\transformed\ui-tooling-data-release\res
+com.pocketledger.app-ui-text-release-17 C:\Users\atiku\.gradle\caches\9.6.0\transforms\6797811b79c4671f9c301fdc2c84b112\transformed\ui-text-release\res
+com.pocketledger.app-foundation-layout-release-18 C:\Users\atiku\.gradle\caches\9.6.0\transforms\6a5ec3f24c87b6b4e59005c1d33b3107\transformed\foundation-layout-release\res
+com.pocketledger.app-activity-ktx-1.10.0-19 C:\Users\atiku\.gradle\caches\9.6.0\transforms\6e53bda1892ac97946e9160a0af72932\transformed\activity-ktx-1.10.0\res
+com.pocketledger.app-core-ktx-1.13.1-20 C:\Users\atiku\.gradle\caches\9.6.0\transforms\817e094c83f1ee308fd13f7114e0dc38\transformed\core-ktx-1.13.1\res
+com.pocketledger.app-savedstate-1.2.1-21 C:\Users\atiku\.gradle\caches\9.6.0\transforms\8284b2913ee777354dd5a739c2858d89\transformed\savedstate-1.2.1\res
+com.pocketledger.app-ui-tooling-release-22 C:\Users\atiku\.gradle\caches\9.6.0\transforms\841113ea5e99af2dbdc8d0c6c52ea307\transformed\ui-tooling-release\res
+com.pocketledger.app-lifecycle-viewmodel-savedstate-2.8.3-23 C:\Users\atiku\.gradle\caches\9.6.0\transforms\84a4c28b338da52f578568dd7566028d\transformed\lifecycle-viewmodel-savedstate-2.8.3\res
+com.pocketledger.app-startup-runtime-1.1.1-24 C:\Users\atiku\.gradle\caches\9.6.0\transforms\90ed95839b0ce2fac611da18df469394\transformed\startup-runtime-1.1.1\res
+com.pocketledger.app-customview-poolingcontainer-1.0.0-25 C:\Users\atiku\.gradle\caches\9.6.0\transforms\9ae9e1c367ff65484c73ac5ae586dcc9\transformed\customview-poolingcontainer-1.0.0\res
+com.pocketledger.app-animation-release-26 C:\Users\atiku\.gradle\caches\9.6.0\transforms\a03422ccc4b67cb8ffc685a09ff86370\transformed\animation-release\res
+com.pocketledger.app-ui-tooling-preview-release-27 C:\Users\atiku\.gradle\caches\9.6.0\transforms\b0a129b28f7a012e74abd1d9ce7e31ec\transformed\ui-tooling-preview-release\res
+com.pocketledger.app-lifecycle-livedata-core-2.8.3-28 C:\Users\atiku\.gradle\caches\9.6.0\transforms\b42adfab75c76e9003d5b4b3637b5837\transformed\lifecycle-livedata-core-2.8.3\res
+com.pocketledger.app-core-runtime-2.2.0-29 C:\Users\atiku\.gradle\caches\9.6.0\transforms\b49e5e44f7223131111d22c3831febb3\transformed\core-runtime-2.2.0\res
+com.pocketledger.app-runtime-release-30 C:\Users\atiku\.gradle\caches\9.6.0\transforms\bcbe81a7ba11aa2c48384604ff389e53\transformed\runtime-release\res
+com.pocketledger.app-material-icons-core-release-31 C:\Users\atiku\.gradle\caches\9.6.0\transforms\bd5ba6c89c3aeb2efec1ee903d75f90b\transformed\material-icons-core-release\res
+com.pocketledger.app-lifecycle-viewmodel-release-32 C:\Users\atiku\.gradle\caches\9.6.0\transforms\be2eab73e820140931b0d6608e429c16\transformed\lifecycle-viewmodel-release\res
+com.pocketledger.app-annotation-experimental-1.4.1-33 C:\Users\atiku\.gradle\caches\9.6.0\transforms\bfc67ac6cc90b80deb5caacf962ded65\transformed\annotation-experimental-1.4.1\res
+com.pocketledger.app-graphics-path-1.0.1-34 C:\Users\atiku\.gradle\caches\9.6.0\transforms\cd072634222d53c91f38ccd5974af6cd\transformed\graphics-path-1.0.1\res
+com.pocketledger.app-animation-core-release-35 C:\Users\atiku\.gradle\caches\9.6.0\transforms\d9c52db0968863f67e0270ef78bf4475\transformed\animation-core-release\res
+com.pocketledger.app-ui-release-36 C:\Users\atiku\.gradle\caches\9.6.0\transforms\e1230147cca542514d4c2798b1c27957\transformed\ui-release\res
+com.pocketledger.app-ui-util-release-37 C:\Users\atiku\.gradle\caches\9.6.0\transforms\e4aef4c987c6af43015318dc37ee73ef\transformed\ui-util-release\res
+com.pocketledger.app-lifecycle-process-2.8.3-38 C:\Users\atiku\.gradle\caches\9.6.0\transforms\e4c41bfee95293a1da03b770d358ba15\transformed\lifecycle-process-2.8.3\res
+com.pocketledger.app-foundation-release-39 C:\Users\atiku\.gradle\caches\9.6.0\transforms\f9b034d71e2bda3ba8919fc07642ef69\transformed\foundation-release\res
+com.pocketledger.app-emoji2-1.3.0-40 C:\Users\atiku\.gradle\caches\9.6.0\transforms\fbadf3cf12f12148cbaea21f16df00f7\transformed\emoji2-1.3.0\res
+com.pocketledger.app-pngs-41 D:\Pocket Ledger\app\build\generated\res\pngs\debug
+com.pocketledger.app-resValues-42 D:\Pocket Ledger\app\build\generated\res\resValues\debug
+com.pocketledger.app-packageDebugResources-43 D:\Pocket Ledger\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.pocketledger.app-packageDebugResources-44 D:\Pocket Ledger\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.pocketledger.app-debug-45 D:\Pocket Ledger\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.pocketledger.app-debug-46 D:\Pocket Ledger\app\src\debug\res
+com.pocketledger.app-main-47 D:\Pocket Ledger\app\src\main\res
