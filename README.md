@@ -13,7 +13,9 @@
 
 ## 📱 App Preview
 
-![Pocket Ledger App Setup](screenshot.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/a-ti-k/Pocket-Ledger/main/screenshot.png" alt="Pocket Ledger App Dashboard" width="360"/>
+</p>
 
 ---
 
